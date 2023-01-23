@@ -1,1 +1,1 @@
-# One-Clisck-jellyfin-deploy
+One click deploy of Jellyfin + Jellyseerr
